@@ -418,6 +418,10 @@ The Details Dashboard supports:
 
 A Star Schema data model was implemented to improve reporting performance and maintainability.
 
+
+<img width="1217" height="791" alt="image" src="https://github.com/user-attachments/assets/ecec24b2-96d3-49ec-ad26-01c449430470" />
+
+
 ### Fact Tables
 
 - Fact Trips
@@ -517,15 +521,11 @@ Uber-Trip-Analysis-Dashboard/
 └── README.md
 ```
 
----
-
 # 📌 Conclusion
 
 The **Uber Trip Analysis Dashboard** provides a complete transportation analytics solution by combining booking performance, revenue tracking, fleet utilization, location intelligence, time-based demand analysis, and transaction-level reporting into a single interactive Power BI experience.
 
 The dashboard enables operations teams, business stakeholders, and decision-makers to monitor performance, optimize resource allocation, improve customer service, and make data-driven decisions using actionable trip analytics.
-
----
 
 ---
 
